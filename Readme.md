@@ -1,15 +1,15 @@
-<h1 align="center">ꪶ𝐀𝐑𝐂𝐓𝐈𝐗 𝐁𝐎𝐓-𝐌𝐃ꫂ<br></h1>
-<P align="center">𝐀𝐫𝐜𝐭𝐢𝐱 × 𝐀𝐫𝐜𝐞𝐮𝐬 𝐢𝐧𝐜.</p>
+<h1 align="center">ꪶBotZerOEꫂ<br></h1>
+<P align="center">BotZerOE</p>
 <p align="center">
   <img src="https://telegra.ph/file/12493a57962e154fb6056.jpg" width="350" height="300" />
 </p>
 
 <p align="center">
-ArctixBot-MD Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Sibuuu07" target="_blank">𝐀𝐫𝐜𝐭𝐢𝐱 𝐢𝐧𝐜.</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+BotZerOE Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Sibuuu07" target="_blank">BotZerOE</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
-<a href="https://youtu.be/imFIX-Wrt3s"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+<a href="https://www.youtube.com/@Ze0rO0sama"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 
 ------
@@ -32,8 +32,8 @@ ArctixBot-MD Bot Multi Device is a automated whatsapp bot created by <a href="ht
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/16149454333"><img src="https://img.shields.io/badge/Contact Arctix-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/Kb6msWfU8fP25KcG3M4Xtw"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/qr/FFU7ZRVOL6ANL1"><img src="https://img.shields.io/badge/Contact Arctix-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="[https://chat.whatsapp.com/JYEBaqSmFKCC5sbvSoFZQd](https://chat.whatsapp.com/JYEBaqSmFKCC5sbvSoFZQd)"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
